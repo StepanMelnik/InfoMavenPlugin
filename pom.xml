@@ -57,7 +57,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <application.name>Maven Project Info</application.name>
 
-        <maven-core.version>3.6.0</maven-core.version>
+        <maven-core.version>3.8.1</maven-core.version>
         <plexus-utils.version>3.3.0</plexus-utils.version>
         <junit-jupiter.version>5.6.2</junit-jupiter.version>
         <mockito.version>1.10.19</mockito.version>
